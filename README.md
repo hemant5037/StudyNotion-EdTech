@@ -20,6 +20,6 @@ cd StudyNotion-EdTech npm install Start the development server:
 
 npm run dev Open the project in your browser at http://localhost:3000 to view your project.
 
-Thanks to the  who have contributed to this project.
+Thanks to the https://github.com/AnuragSingh14032 who have contributed to this project.
 
 
